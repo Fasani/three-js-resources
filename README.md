@@ -10,6 +10,7 @@
     - [Shaders](#shaders)
     - [Sounds](#sounds)
     - [Textures and Materials](#textures-and-materials)
+  - [Books](#books)
   - [Browser Plugins](#browser-plugins)
   - [Communities](#communities)
   - [Free Software](#free-software)
@@ -28,6 +29,13 @@
 - [poly.google.com](https://poly.google.com) - Easily share and access 3D models.
 - [sketchfab.com](https://sketchfab.com/tags/free) - Free models on SketchFab.
 - [turbosquid.com](https://www.turbosquid.com/Search/3D-Models/free) - Free models on TurboSquid.
+- #### Model compression
+  - [@KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery.
+  - [@google/draco](https://github.com/google/draco) - Compress and decompress 3D geometric meshes and point clouds.
+  - [openctm.sourceforge.net](http://openctm.sourceforge.net) - OpenCTM — the Open Compressed Triangle Mesh file format.
+- #### Model viewers
+  - [gltf-viewer.donmccurdy.com](https://gltf-viewer.donmccurdy.com) - Browser based glTF 2.0 model viewer.
+  - [@AnalyticalGraphicsInc/gltf-vscode](https://github.com/AnalyticalGraphicsInc/gltf-vscode) - VS Code extension, adds support for viewing and editing glTF files.
 
 
 ### Shaders
@@ -38,6 +46,7 @@
 - [@luruke/magicshader](https://github.com/luruke/magicshader) - Tiny helper for three.js to debug and write shaders.
 - [@squarefeet/ShaderParticleEngine](https://github.com/squarefeet/ShaderParticleEngine) - A GLSL-heavy particle engine for three.js.
 - [shadertoy.com](https://www.shadertoy.com) - Build and Share your best shaders with the world and get inspired.
+- [spector.babylonjs.com](https://spector.babylonjs.com) - Explore and Troubleshoot your WebGL scenes with ease.
 - [@zz85/crayon.js](https://github.com/zz85/crayon.js) - Node-based Shader Library for three.js.
 
 
@@ -48,6 +57,15 @@
 ### Textures and Materials
 - [freepbr.com](https://freepbr.com) - 100% free PBR materials and texture files.
 - [texturehaven.com](https://texturehaven.com) - 100% Free Textures, for Everyone.
+
+
+
+## Books
+- [Game Development with Three.js](https://www.amazon.com/Game-Development-Three-js-Isaac-Sukin/dp/1782168532) - Isaac Sukin - (October 24, 2013).
+- [How to design 3D games with web technology - Book 01:  Three.js – HTML5 and WebGL](https://www.amazon.com/HOW-DESIGN-GAMES-WEB-TECHNOLOGY-ebook/dp/B01MZI87DG) - Jordi Josa  - (February 5, 2017).
+- [Learn Three.js: Programming 3D animations and visualizations for the web with HTML5 and WebGL, 3rd Edition](https://www.amazon.com/Learn-Three-js-Programming-animations-visualizations/dp/1788833287) - Jos Dirksen - (August 31, 2018).
+- [Three.js Cookbook Paperback](https://www.amazon.com/Three-js-Cookbook-Jos-Dirksen/dp/1783981180) - Jos Dirksen - (January 30, 2015).
+- [Three.js Essentials](https://www.amazon.com/Three-js-Essentials-Jos-Dirksen/dp/1783980869) – Jos Dirksen - (July 7, 2014).
 
 
 
