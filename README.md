@@ -26,11 +26,11 @@
 ### Models
 - [3dmodelhaven.com](https://3dmodelhaven.com) - 100% Free 3D Models, for Everyone.
 - [kenney.nl](https://www.kenney.nl) - Free game assets, no strings attached.
+- [mixamo.com](https://www.mixamo.com) -  3D characters, skeletal rigs, and animations, ready for use from Adobe.
 - [poly.google.com](https://poly.google.com) - Easily share and access 3D models.
 - [sketchfab.com](https://sketchfab.com/tags/free) - Free models on SketchFab.
+- [threedscans.com](http://threedscans.com) - Free high-resolution scans from museums.
 - [turbosquid.com](https://www.turbosquid.com/Search/3D-Models/free) - Free models on TurboSquid.
-- [threedscans.com](http://threedscans.com/) - Free high-resolution scans from museums.
-- [mixamo.com](https://www.mixamo.com/) - Some free character rigs and a huge selection of animations.
 - #### Model compression
   - [@KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery.
   - [@google/draco](https://github.com/google/draco) - Compress and decompress 3D geometric meshes and point clouds.
@@ -58,8 +58,8 @@
 
 ### Textures and Materials
 - [freepbr.com](https://freepbr.com) - 100% free PBR materials and texture files.
+- [@nidorx/matcaps](https://github.com/nidorx/matcaps) - A huge open source library of MatCap textures in PNG and ZMT.
 - [texturehaven.com](https://texturehaven.com) - 100% Free Textures, for Everyone.
-- [nidorx/matcaps](https://github.com/nidorx/matcaps) - A huge open source library of MatCap textures in PNG and ZMT.
 
 
 ## Books
