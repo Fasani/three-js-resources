@@ -5,6 +5,7 @@
 
 - [three.js Resources](#threejs-resources)
   - [Assets](#assets)
+    - [Fonts](#fonts)
     - [HDRI](#hdri)
     - [Models](#models)
     - [Shaders](#shaders)
@@ -19,6 +20,11 @@
 
 
 ## Assets
+### Fonts
+- [fontesk.com](https://fontesk.com/license/free-for-commercial-use,ofl-gpl/) - A curated font library of the best high quality free fonts to download for commercial and personal use.
+- [fontspace.com](https://www.fontspace.com/commercial-fonts) - Free downloads of legally licensed fonts, over 15,000 commercial-use fonts.
+
+
 ### HDRI
 - [hdrihaven.com](https://hdrihaven.com/) - 100% Free HDRIs, for Everyone.
 
@@ -62,6 +68,7 @@
 - [texturehaven.com](https://texturehaven.com) - 100% Free Textures, for Everyone.
 
 
+
 ## Books
 - [Game Development with Three.js](https://www.amazon.com/Game-Development-Three-js-Isaac-Sukin/dp/1782168532) - Isaac Sukin - (October 24, 2013).
 - [How to design 3D games with web technology - Book 01:  Three.js – HTML5 and WebGL](https://www.amazon.com/HOW-DESIGN-GAMES-WEB-TECHNOLOGY-ebook/dp/B01MZI87DG) - Jordi Josa  - (February 5, 2017).
@@ -90,6 +97,7 @@
 ## Free Software
 - [audacityteam.org](https://www.audacityteam.org) - Free, open source, cross-platform audio software.
 - [blender.org](https://www.blender.org) - Free and open source 3D creation suite. Free to use for any purpose, forever.
+
 
 
 ## Online Tools
