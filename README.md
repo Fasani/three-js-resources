@@ -57,7 +57,7 @@
 ### Textures and Materials
 - [freepbr.com](https://freepbr.com) - 100% free PBR materials and texture files.
 - [texturehaven.com](https://texturehaven.com) - 100% Free Textures, for Everyone.
-
+- [nidorx/matcaps](https://github.com/nidorx/matcaps) - A huge open source library of MatCap textures in PNG and ZMT.
 
 
 ## Books
