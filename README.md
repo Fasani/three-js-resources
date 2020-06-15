@@ -29,6 +29,7 @@
 - [poly.google.com](https://poly.google.com) - Easily share and access 3D models.
 - [sketchfab.com](https://sketchfab.com/tags/free) - Free models on SketchFab.
 - [turbosquid.com](https://www.turbosquid.com/Search/3D-Models/free) - Free models on TurboSquid.
+- [threedscans.com](http://threedscans.com/) - Free high-resolution scans from museums.
 - #### Model compression
   - [@KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery.
   - [@google/draco](https://github.com/google/draco) - Compress and decompress 3D geometric meshes and point clouds.
