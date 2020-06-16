@@ -105,7 +105,7 @@
 
 - [photopea.com](https://www.photopea.com) - Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
 - [ThreeNodes.js](http://idflood.github.io/ThreeNodes.js) - A dataflow environment for three.js.
-
+- [desmos.com](https://www.desmos.com/calculator) - A convenient graphing calculator for creating and visualizing functions.
 
 
 ## three.js Plugins
