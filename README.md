@@ -7,6 +7,7 @@
   - [Assets](#assets)
     - [Fonts](#fonts)
     - [HDRI](#hdri)
+    - [Images](#images)
     - [Models](#models)
     - [Shaders](#shaders)
     - [Sounds](#sounds)
@@ -26,7 +27,12 @@
 
 
 ### HDRI
-- [hdrihaven.com](https://hdrihaven.com/) - 100% Free HDRIs, for Everyone.
+- [hdrihaven.com](https://hdrihaven.com) - 100% Free HDRIs, for Everyone.
+
+
+### Images
+- [flaticon.com](https://www.flaticon.com) - Free icons and icon packs.
+- [freepik.com](https://www.freepik.com) - Free vectors, stock photos, PSD files and icons.
 
 
 ### Models
