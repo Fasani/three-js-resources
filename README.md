@@ -61,6 +61,7 @@
 - [@squarefeet/ShaderParticleEngine](https://github.com/squarefeet/ShaderParticleEngine) - A GLSL-heavy particle engine for three.js.
 - [shadertoy.com](https://www.shadertoy.com) - Build and Share your best shaders with the world and get inspired.
 - [spector.babylonjs.com](https://spector.babylonjs.com) - Explore and Troubleshoot your WebGL scenes with ease.
+- [webgl2fundamentals.org](https://webgl2fundamentals.org) - A series of lessons and tutorials about WebGL2.
 - [@zz85/crayon.js](https://github.com/zz85/crayon.js) - Node-based Shader Library for three.js.
 
 
