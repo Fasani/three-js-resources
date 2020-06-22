@@ -109,11 +109,13 @@
 
 
 ## Online Tools
-
+- [EffectTextureMaker](https://mebiusbox.github.io/contents/EffectTextureMaker) - Generate textures for VFX online.
 - [photopea.com](https://www.photopea.com) - Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
+- [threejs.org/editor](https://threejs.org/editor) - Create scenes and explore three.js online.
 - [ThreeNodes.js](http://idflood.github.io/ThreeNodes.js) - A dataflow environment for three.js.
 
 
-
 ## three.js Plugins
+- [@SolalDR/three-dat.gui](https://github.com/SolalDR/three-dat.gui) - Create three.js controls on top of Dat.GUI.
+- [@vanruesc/postprocessing](https://github.com/vanruesc/postprocessing) - Post processing library that provides the means to implement image filter effects for three.js.
 - [@yomotsu/camera-controls](https://github.com/yomotsu/camera-controls) - A camera control for three.js, similar to THREE.OrbitControls yet supports smooth transitions and more features.
