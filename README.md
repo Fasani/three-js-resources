@@ -24,6 +24,7 @@
 ### Fonts
 - [fontesk.com](https://fontesk.com/license/free-for-commercial-use,ofl-gpl/) - A curated font library of the best high quality free fonts to download for commercial and personal use.
 - [fontspace.com](https://www.fontspace.com/commercial-fonts) - Free downloads of legally licensed fonts, over 15,000 commercial-use fonts.
+- [rostype.com](http://rostype.com) - Rostype creates fonts that are free to use for anyone, in personal and commercial projects.
 
 
 ### HDRI
@@ -113,6 +114,7 @@
 - [photopea.com](https://www.photopea.com) - Free online editor supporting PSD, XCF, Sketch, XD and CDR formats.
 - [threejs.org/editor](https://threejs.org/editor) - Create scenes and explore three.js online.
 - [ThreeNodes.js](http://idflood.github.io/ThreeNodes.js) - A dataflow environment for three.js.
+
 
 
 ## three.js Plugins
